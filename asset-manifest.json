@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/word-counter-react/static/js/main.a6169d31.js",
+    "static/js/787.bc7d429a.chunk.js": "/word-counter-react/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/word-counter-react/index.html",
+    "main.a6169d31.js.map": "/word-counter-react/static/js/main.a6169d31.js.map",
+    "787.bc7d429a.chunk.js.map": "/word-counter-react/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a6169d31.js"
+  ]
+}
